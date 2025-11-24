@@ -8,7 +8,7 @@ author VARCHAR(255),
 published_year INT,
 pages INT
 );
-
+ -- bài
 INSERT INTO Books (title, author, published_year, pages) VALUES
 ('Lập Trình C++ Cơ Bản', 'Nguyễn Văn A', 1999, 320),
 ('Dữ Liệu Lớn Và Ứng Dụng', 'Trần Thị B', 2015, 450),
